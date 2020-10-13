@@ -40,7 +40,7 @@ const ContentZone = ({ name, page, dynamicPageItem }) => {
 
 		return modules;
 	}
-
+ 
 	return (<Modules />)
 }
 export default ContentZone;
